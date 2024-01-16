@@ -1,5 +1,3 @@
-# CodeBook.md
-
 ## Project Title
 
 Human Activity Recognition Using Smartphones Dataset Analysis
